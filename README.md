@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ömer, a QA Tester 👨‍💻 also a computer engineer 🚀</div>  
+### <div align="center">I'm Ömer, a QA Tester 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning Appium and Cypress  
