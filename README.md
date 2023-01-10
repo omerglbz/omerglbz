@@ -65,9 +65,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=omerglbz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerglbz&hide_border=true&layout=compact" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=omerglbz&show_icons=true&count_private=true&hide_border=true" align="center" /></div> <br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerglbz&hide_border=true&layout=compact" align="left" /></div>
+  
 
 <br/>  
 
@@ -79,6 +79,7 @@
   
 
 <br/>  
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=omerglbz&&style=flat-square" align="center" />
